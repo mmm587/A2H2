@@ -12,8 +12,8 @@ CMU-MOSEI: http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/
 
 ## Results
 Comparison Experiment.
-|Model| ACC\%(↑)|F1-score\%(↑)|MAE(↓)|Corr(↑)|
-|----|----|----|----|----|----|
+|Model|ACC\%(↑)|F1-score\%(↑)|MAE(↓)|Corr(↑)|
+|----|----|----|----|----|
 |Mult|-/83.0|-/82.8|0.871|0.698|
 |ICCN|-/83.07|-/83.02|0.862|0.714|
 |MISA|81.8/83.4|81.7/83.6|0.783|0.761|
